@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "Your personal creative companion for YouTube, Instagram, and daily tasks. Zoya follows your commands, plays music, and calls you Boss.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Assistant", "Content Creation", "Image Generation"]
+}
